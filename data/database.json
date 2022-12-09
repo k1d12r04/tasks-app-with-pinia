@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1670545095657,
+      "title": "ekmek al",
+      "isFav": false
+    },
+    {
+      "id": 1670545119813,
+      "title": "ders çalış",
+      "isFav": true
+    },
+    {
+      "id": 1670545122907,
+      "title": "spor yap",
+      "isFav": false
+    }
+  ]
+}
